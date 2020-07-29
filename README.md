@@ -4,10 +4,6 @@ Currently, I am an Architect at Nvidia focusing on the Self-Driving initiative. 
 
 In 2017 I led NASA's Long-Period Comets team within their AI accelerator, called Frontier Development Lab, where we use machine learning to develop meteor detectors. Recently this project was able to provide the first-ever instrumental evidence of an outburst of 5 meteors coming from a previously known comet, called C/1907 G1 (Grigg-Mellish). As a member of the NASA FDL AI Technical Committee, I'm working towards incorporating AI in many space science projects!
 
-Previously I was a Deep Learning Data Scientist at Deep Vision where I worked on developing and deploying deep learning models on resource constraint edge devices.
-
-I graduated from Carnegie Mellon University with a Master's in Computational Data Science and a Bachelor’s in Computer Science and Technology from the National Institute of Technology (NIT), Hamirpur, India.
-
 I have also authored a book on Practical Deep Learning for Cloud, Mobile & Edge - O'Reilly Publishers
 
 | <a href="https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/"><img src="https://github.com/sidgan/sidgan.github.com/raw/master/files/book-cover.PNG" width="200">|<br><br><br> \*\* <b>Featured as a learning resource on the official [Keras](https://keras.io/getting_started/learning_resources/) website</b>\*\*  |
