@@ -11,5 +11,6 @@ I have also authored a book on Practical Deep Learning for Cloud, Mobile & Edge 
 
 [[Online on Safari](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/)] | [[Buy on Amazon](https://www.amazon.com/Practical-Learning-Cloud-Mobile-Hands/dp/149203486X/)] | [[Online on Google Books](https://books.google.com/books?id=B_3ovwEACAAJ)] | [[Book Website](http://practicaldeeplearning.ai/)] | [[Presentation on Slideshare](https://www.slideshare.net/anirudhkoul/deep-learning-on-mobile-2019-practitioners-guide)]
 
-
 <!--  [![Siddha's github stats](https://github-readme-stats.vercel.app/api?username=sidgan&count_private=true&show_icons=true)](https://github.com/sidgan/github-readme-stats) -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=sidgan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
